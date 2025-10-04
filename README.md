@@ -38,7 +38,7 @@ Derived features include:
 
 
 
-## 🧹 Data Preprocessing
+##  Data Preprocessing
 
 - **Datetime conversion:** Converted `Date` to datetime format.  
 - **Encoding:** Label encoded categorical features (e.g., `Mandal`).  
@@ -149,7 +149,7 @@ streamlit run dashboard/app.py
 
 
 
-## 🌍 Future Enhancements
+##  Future Enhancements
 - Integrate live weather data via **OpenWeather API**.  
 - Extend predictions to **multi-class rainfall intensity levels**.  
 - Deploy full system on **Streamlit Cloud** for public access.  
